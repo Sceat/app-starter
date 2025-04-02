@@ -8,7 +8,7 @@ import router from './router.js';
 
 console.log(
   `%c You're curious, i like you 😊`,
-  'color: #1565C0;font-weight:bold;font-size:20px;'
+  'color: #1565C0;font-weight:bold;font-size:20px;',
 );
 
 const vue_app = createApp(app);
