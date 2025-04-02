@@ -1,3 +1,3 @@
 <template lang="pug">
-.hello__world
+.hello__world Hello world
 </template>
